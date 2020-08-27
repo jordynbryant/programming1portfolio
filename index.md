@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jo's programming portfolio
 
 You can use the [editor on GitHub](https://github.com/jordynbryant/programming1portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
